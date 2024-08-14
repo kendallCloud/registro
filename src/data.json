@@ -1,0 +1,42 @@
+{
+   "padron": [
+        {
+            "id": 1,
+            "cedula": "1234567890",
+            "nombre": "John",
+            "apellidoMaterno": "Doe",
+            "apellidoPaterno": "Smith"
+           },
+            {
+            "id": 2,
+            "cedula": "0987654321",
+            "nombre": "Jane",
+            "apellidoMaterno": "Doe",
+            "apellidoPaterno": "Smith"
+            }
+            ,
+            {
+            "id": 3,
+            "cedula": "117520732",
+            "nombre": "Kendall",
+            "apellidoMaterno": "Barrantes",
+            "apellidoPaterno": "Granados"
+            },
+            {
+            "id": 4,
+            "cedula": "118720309",
+            "nombre": "Sebastian",
+            "apellidoMaterno": "Barrantes",
+            "apellidoPaterno": "Granados"
+            },
+            {
+            "id": 5,
+            "cedula": "118720309",
+            "nombre": "Alexa",
+            "apellidoMaterno": "Barrantes",
+            "apellidoPaterno": "Solis"
+            }
+
+            
+    ]
+}
